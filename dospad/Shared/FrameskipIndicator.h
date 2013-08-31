@@ -28,7 +28,7 @@ typedef enum  {
     int count;
     FrameskipIndicatorStyle style;
 }
-@property int count;
+@property (nonatomic, assign) int count;
 
 -(id)initWithFrame:(CGRect)frame style:(FrameskipIndicatorStyle)style;
 

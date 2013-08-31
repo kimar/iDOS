@@ -251,7 +251,9 @@ static SystemSoundID sound_joystick_move=0;
                     break;
                 case DPadDown:
                     SDL_SendKeyboardKey(0, SDL_RELEASED, SDL_SCANCODE_DOWN);
-                    break;            
+                    break;
+                default:
+                    break;
             }            
             
             switch (dir)
@@ -267,7 +269,9 @@ static SystemSoundID sound_joystick_move=0;
                     break;                
                 case DPadDown:
                     SDL_SendKeyboardKey(0, SDL_PRESSED, SDL_SCANCODE_DOWN);
-                    break;                
+                    break;
+                default:
+                    break;
             }
         }
         
