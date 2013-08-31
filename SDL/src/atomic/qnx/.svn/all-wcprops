@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/SDL/src/atomic/qnx
+END
+SDL_atomic.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/SDL/src/atomic/qnx/SDL_atomic.c
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/15/trunk/dospad/audio-res
+END
+joystickbtn.wav
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/dospad/audio-res/joystickbtn.wav
+END
+keypress.wav
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/dospad/audio-res/keypress.wav
+END
+joystickmove.wav
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/dospad/audio-res/joystickmove.wav
+END
+installcomplete.wav
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/dospad/audio-res/installcomplete.wav
+END
+start-up.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/dospad/audio-res/start-up.mp3
+END
+installcomplete.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/dospad/audio-res/installcomplete.mp3
+END

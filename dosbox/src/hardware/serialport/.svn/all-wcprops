@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/serialport
+END
+directserial.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/serialport/directserial.h
+END
+serialdummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/serialport/serialdummy.h
+END
+nullmodem.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/serialport/nullmodem.h
+END
+softmodem.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/serialport/softmodem.h
+END
+serialport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/serialport/serialport.cpp
+END
+libserial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/serialport/libserial.cpp
+END
+misc_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/serialport/misc_util.cpp
+END
+directserial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/serialport/directserial.cpp
+END
+libserial.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/serialport/libserial.h
+END
+serialdummy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/serialport/serialdummy.cpp
+END
+nullmodem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/serialport/nullmodem.cpp
+END
+misc_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/serialport/misc_util.h
+END
+softmodem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/serialport/softmodem.cpp
+END

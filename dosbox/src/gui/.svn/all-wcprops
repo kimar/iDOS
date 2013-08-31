@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/18/trunk/dosbox/src/gui
+END
+render_templates_sai.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/dosbox/src/gui/render_templates_sai.h
+END
+render_scalers.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/dosbox/src/gui/render_scalers.h
+END
+render_loops.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/dosbox/src/gui/render_loops.h
+END
+midi_coremidi.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/18/trunk/dosbox/src/gui/midi_coremidi.h
+END
+render_templates.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/dosbox/src/gui/render_templates.h
+END
+render_templates_hq2x.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/dosbox/src/gui/render_templates_hq2x.h
+END
+render_templates_hq3x.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/dosbox/src/gui/render_templates_hq3x.h
+END
+midi_win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/dosbox/src/gui/midi_win32.h
+END
+midi_oss.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/dosbox/src/gui/midi_oss.h
+END
+dosbox_splash.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/gui/dosbox_splash.h
+END
+render.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/dosbox/src/gui/render.cpp
+END
+midi_coreaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/18/trunk/dosbox/src/gui/midi_coreaudio.h
+END
+midi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/18/trunk/dosbox/src/gui/midi.cpp
+END
+dosbox_logo.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/dosbox/src/gui/dosbox_logo.h
+END
+sdl_gui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/dosbox/src/gui/sdl_gui.cpp
+END
+sdl_mapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/dosbox/src/gui/sdl_mapper.cpp
+END
+midi_alsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/dosbox/src/gui/midi_alsa.h
+END
+sdlmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/18/trunk/dosbox/src/gui/sdlmain.cpp
+END
+render_templates_hq.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/dosbox/src/gui/render_templates_hq.h
+END
+render_scalers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/dosbox/src/gui/render_scalers.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/dosbox/src/gui/Makefile
+END
+render_simple.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/gui/render_simple.h
+END

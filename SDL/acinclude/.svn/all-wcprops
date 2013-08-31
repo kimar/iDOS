@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/SDL/acinclude
+END
+alsa.m4
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/SDL/acinclude/alsa.m4
+END
+ltsugar.m4
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/SDL/acinclude/ltsugar.m4
+END
+libtool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/SDL/acinclude/libtool.m4
+END
+ltversion.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/SDL/acinclude/ltversion.m4
+END
+lt~obsolete.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/SDL/acinclude/lt~obsolete.m4
+END
+ac_check_define.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/SDL/acinclude/ac_check_define.m4
+END
+esd.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/SDL/acinclude/esd.m4
+END
+ltoptions.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/SDL/acinclude/ltoptions.m4
+END
+ltdl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/SDL/acinclude/ltdl.m4
+END

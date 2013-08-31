@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9B309DC8-275D-4BA3-ADFD-A31E6E57AFFA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>dospad</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3198FDFF-1096-4D96-BA70-C3E5765EA31E</key>
+		<string>http://dospad.googlecode.com/svn/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>dospad.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3198FDFF-1096-4D96-BA70-C3E5765EA31E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>3198FDFF-1096-4D96-BA70-C3E5765EA31E</key>
+		<string>http://dospad.googlecode.com/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://dospad.googlecode.com/svn/trunk/dospad.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3198FDFF-1096-4D96-BA70-C3E5765EA31E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3198FDFF-1096-4D96-BA70-C3E5765EA31E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>dospad-read-only</string>
+		</dict>
+	</array>
+</dict>
+</plist>

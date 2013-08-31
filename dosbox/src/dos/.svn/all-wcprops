@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/15/trunk/dosbox/src/dos
+END
+dos_classes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/dos/dos_classes.cpp
+END
+cdrom.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/dosbox/src/dos/cdrom.h
+END
+cdrom_ioctl_linux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/dosbox/src/dos/cdrom_ioctl_linux.cpp
+END
+dos_memory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/dosbox/src/dos/dos_memory.cpp
+END
+dos_ioctl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/dosbox/src/dos/dos_ioctl.cpp
+END
+drive_virtual.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/dosbox/src/dos/drive_virtual.cpp
+END
+dos_tables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/dosbox/src/dos/dos_tables.cpp
+END
+cdrom_ioctl_win32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/dosbox/src/dos/cdrom_ioctl_win32.cpp
+END
+cdrom_ioctl_os2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/dosbox/src/dos/cdrom_ioctl_os2.cpp
+END
+dev_con.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/dosbox/src/dos/dev_con.h
+END
+drive_local.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/dos/drive_local.cpp
+END
+dos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/dosbox/src/dos/dos.cpp
+END
+dos_devices.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/dos/dos_devices.cpp
+END
+dos_mscdex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/dosbox/src/dos/dos_mscdex.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/dosbox/src/dos/Makefile
+END
+drive_cache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/dos/drive_cache.cpp
+END
+dos_programs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/15/trunk/dosbox/src/dos/dos_programs.cpp
+END
+dos_misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/dosbox/src/dos/dos_misc.cpp
+END
+dos_keyboard_layout_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/dosbox/src/dos/dos_keyboard_layout_data.h
+END
+drives.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/dosbox/src/dos/drives.h
+END
+cdrom_aspi_win32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/dosbox/src/dos/cdrom_aspi_win32.cpp
+END
+dos_keyboard_layout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/dosbox/src/dos/dos_keyboard_layout.cpp
+END
+drive_fat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/dosbox/src/dos/drive_fat.cpp
+END
+cdrom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/dosbox/src/dos/cdrom.cpp
+END
+dos_codepages.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/dos/dos_codepages.h
+END
+cdrom_image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/dos/cdrom_image.cpp
+END
+dos_execute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/dos/dos_execute.cpp
+END
+dos_files.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/dosbox/src/dos/dos_files.cpp
+END
+scsidefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/dosbox/src/dos/scsidefs.h
+END
+wnaspi32.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/dosbox/src/dos/wnaspi32.h
+END
+drive_iso.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/dosbox/src/dos/drive_iso.cpp
+END
+drives.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/dosbox/src/dos/drives.cpp
+END

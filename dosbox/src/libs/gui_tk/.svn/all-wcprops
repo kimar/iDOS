@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/dosbox/src/libs/gui_tk
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/dosbox/src/libs/gui_tk/Makefile.in
+END
+gui_tk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/dosbox/src/libs/gui_tk/gui_tk.cpp
+END
+gui_tk.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/dosbox/src/libs/gui_tk/gui_tk.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/dosbox/src/libs/gui_tk/Makefile.am
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_full
+END
+loadwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_full/loadwrite.h
+END
+support.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_full/support.h
+END
+op.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_full/op.h
+END
+save.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_full/save.h
+END
+ea_lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_full/ea_lookup.h
+END
+load.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_full/load.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_full/string.h
+END
+optable.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_full/optable.h
+END

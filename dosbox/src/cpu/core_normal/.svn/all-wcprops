@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_normal
+END
+table_ea.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_normal/table_ea.h
+END
+support.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_normal/support.h
+END
+prefix_none.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_normal/prefix_none.h
+END
+prefix_66_0f.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_normal/prefix_66_0f.h
+END
+helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_normal/helpers.h
+END
+prefix_0f.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_normal/prefix_0f.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_normal/string.h
+END
+prefix_66.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_normal/prefix_66.h
+END

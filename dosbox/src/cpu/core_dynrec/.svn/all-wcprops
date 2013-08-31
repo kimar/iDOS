@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dynrec
+END
+risc_armv4le.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dynrec/risc_armv4le.h
+END
+risc_x64.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dynrec/risc_x64.h
+END
+risc_armv4le-thumb-niw.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dynrec/risc_armv4le-thumb-niw.h
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dynrec/cache.h
+END
+dyn_fpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dynrec/dyn_fpu.h
+END
+risc_x86.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dynrec/risc_x86.h
+END
+decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dynrec/decoder.h
+END
+decoder_basic.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dynrec/decoder_basic.h
+END
+risc_armv4le-thumb.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dynrec/risc_armv4le-thumb.h
+END
+risc_armv4le-o3.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dynrec/risc_armv4le-o3.h
+END
+risc_armv4le-s3.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dynrec/risc_armv4le-s3.h
+END
+risc_mipsel32.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dynrec/risc_mipsel32.h
+END
+operators.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dynrec/operators.h
+END
+risc_armv4le-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dynrec/risc_armv4le-common.h
+END
+decoder_opcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dynrec/decoder_opcodes.h
+END
+risc_armv4le-thumb-iw.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dynrec/risc_armv4le-thumb-iw.h
+END

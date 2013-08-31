@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/dosbox/src/ints
+END
+int10.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/dosbox/src/ints/int10.h
+END
+bios_disk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/dosbox/src/ints/bios_disk.cpp
+END
+int10_misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/ints/int10_misc.cpp
+END
+xms.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/dosbox/src/ints/xms.cpp
+END
+int10_vptable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/dosbox/src/ints/int10_vptable.cpp
+END
+int10_vesa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/ints/int10_vesa.cpp
+END
+xms.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/dosbox/src/ints/xms.h
+END
+bios_keyboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/dosbox/src/ints/bios_keyboard.cpp
+END
+int10_video_state.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/dosbox/src/ints/int10_video_state.cpp
+END
+int10_modes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/dosbox/src/ints/int10_modes.cpp
+END
+int10_memory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/dosbox/src/ints/int10_memory.cpp
+END
+int10_put_pixel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/dosbox/src/ints/int10_put_pixel.cpp
+END
+ems.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/dosbox/src/ints/ems.cpp
+END
+int10_pal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/dosbox/src/ints/int10_pal.cpp
+END
+mouse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/dosbox/src/ints/mouse.cpp
+END
+int10_char.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/ints/int10_char.cpp
+END
+int10.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/dosbox/src/ints/int10.cpp
+END
+bios.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/dosbox/src/ints/bios.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/dosbox/src/ints/Makefile
+END

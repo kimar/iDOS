@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/dosbox/src/cpu
+END
+core_normal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_normal.cpp
+END
+lazyflags.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/lazyflags.h
+END
+core_simple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_simple.cpp
+END
+paging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/paging.cpp
+END
+core_dyn_x86.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dyn_x86.cpp
+END
+core_prefetch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_prefetch.cpp
+END
+instructions.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/instructions.h
+END
+core_full.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_full.cpp
+END
+modrm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/modrm.cpp
+END
+modrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/modrm.h
+END
+cpu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/cpu.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/Makefile
+END
+core_dynrec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/core_dynrec.cpp
+END
+callback.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/callback.cpp
+END
+flags.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/dosbox/src/cpu/flags.cpp
+END

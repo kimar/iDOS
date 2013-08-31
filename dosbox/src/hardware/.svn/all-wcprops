@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/dosbox/src/hardware
+END
+dbopl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/dbopl.cpp
+END
+ipx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/ipx.cpp
+END
+dma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/dma.cpp
+END
+vga_memory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/vga_memory.cpp
+END
+iohandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/iohandler.cpp
+END
+vga_attr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/vga_attr.cpp
+END
+memory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/memory.cpp
+END
+adlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/adlib.cpp
+END
+pic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/pic.cpp
+END
+vga_tseng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/vga_tseng.cpp
+END
+vga.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/vga.cpp
+END
+pcspeaker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/pcspeaker.cpp
+END
+vga_other.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/vga_other.cpp
+END
+timer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/timer.cpp
+END
+vga_gfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/vga_gfx.cpp
+END
+mixer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/mixer.cpp
+END
+vga_dac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/vga_dac.cpp
+END
+vga_paradise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/vga_paradise.cpp
+END
+mpu401.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/mpu401.cpp
+END
+ipxserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/ipxserver.cpp
+END
+vga_misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/vga_misc.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/Makefile
+END
+hardware.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/hardware.cpp
+END
+gus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/gus.cpp
+END
+opl.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/opl.h
+END
+joystick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/joystick.cpp
+END
+keyboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/keyboard.cpp
+END
+cmos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/cmos.cpp
+END
+dbopl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/dbopl.h
+END
+vga_xga.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/vga_xga.cpp
+END
+sblaster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/sblaster.cpp
+END
+adlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/adlib.h
+END
+vga_s3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/vga_s3.cpp
+END
+vga_seq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/vga_seq.cpp
+END
+gameblaster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/gameblaster.cpp
+END
+tandy_sound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/tandy_sound.cpp
+END
+vga_crtc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/vga_crtc.cpp
+END
+vga_draw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/vga_draw.cpp
+END
+opl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/opl.cpp
+END
+disney.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/dosbox/src/hardware/disney.cpp
+END

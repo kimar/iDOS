@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/32/trunk/dospad/Shared
+END
+GamePadView.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/26/trunk/dospad/Shared/GamePadView.h
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/32/trunk/dospad/Shared/main.m
+END
+PianoKeyboard.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/26/trunk/dospad/Shared/PianoKeyboard.m
+END
+KeyLockIndicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/dospad/Shared/KeyLockIndicator.h
+END
+GamePadView.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/26/trunk/dospad/Shared/GamePadView.m
+END
+KeyLockIndicator.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/dospad/Shared/KeyLockIndicator.m
+END
+ZipArchive.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/dospad/Shared/ZipArchive.h
+END
+DOSPadBaseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/trunk/dospad/Shared/DOSPadBaseViewController.h
+END
+DOSPadBaseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/28/trunk/dospad/Shared/DOSPadBaseViewController.m
+END
+ZipArchive.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/dospad/Shared/ZipArchive.m
+END
+FileSystemObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/dospad/Shared/FileSystemObject.h
+END
+keys.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/trunk/dospad/Shared/keys.h
+END
+TextViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/dospad/Shared/TextViewController.xib
+END
+FrameskipIndicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/dospad/Shared/FrameskipIndicator.h
+END
+FileSystemObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/dospad/Shared/FileSystemObject.m
+END
+keys.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/26/trunk/dospad/Shared/keys.m
+END
+KeyView.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/dospad/Shared/KeyView.h
+END
+FrameskipIndicator.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/dospad/Shared/FrameskipIndicator.m
+END
+TextViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/dospad/Shared/TextViewController.h
+END
+DosEmuThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/dospad/Shared/DosEmuThread.h
+END
+cmd_history.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/dospad/Shared/cmd_history.h
+END
+FloatPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/26/trunk/dospad/Shared/FloatPanel.h
+END
+TipView.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/dospad/Shared/TipView.h
+END
+TextViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/dospad/Shared/TextViewController.m
+END
+Common.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/26/trunk/dospad/Shared/Common.h
+END
+KeyView.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/dospad/Shared/KeyView.m
+END
+SplashViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/dospad/Shared/SplashViewController.h
+END
+DosEmuThread.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/dospad/Shared/DosEmuThread.m
+END
+FloatPanel.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/26/trunk/dospad/Shared/FloatPanel.m
+END
+ModalViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/dospad/Shared/ModalViewController.h
+END
+KeyboardView.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/dospad/Shared/KeyboardView.h
+END
+DosPadUIApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/32/trunk/dospad/Shared/DosPadUIApplication.h
+END
+TipView.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/dospad/Shared/TipView.m
+END
+FloatingView.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/dospad/Shared/FloatingView.h
+END
+SplashViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/dospad/Shared/SplashViewController.m
+END
+ModalViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/dospad/Shared/ModalViewController.m
+END
+KeyboardView.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/dospad/Shared/KeyboardView.m
+END
+DosPadUIApplication.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/32/trunk/dospad/Shared/DosPadUIApplication.m
+END
+OptionViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/trunk/dospad/Shared/OptionViewController.xib
+END
+FloatingView.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/dospad/Shared/FloatingView.m
+END
+GIFAnimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/dospad/Shared/GIFAnimation.h
+END
+OptionViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26/trunk/dospad/Shared/OptionViewController.h
+END
+WebViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/trunk/dospad/Shared/WebViewController.xib
+END
+AlertPrompt.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/trunk/dospad/Shared/AlertPrompt.h
+END
+GIFAnimation.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/dospad/Shared/GIFAnimation.m
+END
+VKView.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/dospad/Shared/VKView.h
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/trunk/dospad/Shared/AppDelegate.h
+END
+OptionViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/26/trunk/dospad/Shared/OptionViewController.m
+END
+WebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/dospad/Shared/WebViewController.h
+END
+AlertPrompt.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/trunk/dospad/Shared/AlertPrompt.m
+END
+VKView.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/dospad/Shared/VKView.m
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31/trunk/dospad/Shared/AppDelegate.m
+END
+WebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/dospad/Shared/WebViewController.m
+END
+HoldIndicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/dospad/Shared/HoldIndicator.h
+END
+PianoKeyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/26/trunk/dospad/Shared/PianoKeyboard.h
+END
+HoldIndicator.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/dospad/Shared/HoldIndicator.m
+END
